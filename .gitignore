@@ -5,6 +5,8 @@
 .nitro
 .cache
 dist
+playground
+package-lock.json
 
 # Node dependencies
 node_modules
