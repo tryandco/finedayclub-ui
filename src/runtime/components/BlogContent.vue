@@ -133,6 +133,7 @@ onUnmounted(() => observer?.disconnect())
 
   :deep(p) {
     @apply text-p-m text-content-80 mb-5 min-h-8;
+    word-break: break-word;
   }
 
   :deep(ol) {

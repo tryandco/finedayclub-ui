@@ -50,6 +50,7 @@ const text = computed(() => props.content?.text);
 
   :deep(p) {
     @apply text-p-m mb-5;
+    word-break: break-word;
   }
 
   :deep(ol) {
