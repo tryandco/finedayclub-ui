@@ -94,7 +94,7 @@ const types = [
     }
 
     &__subtitle {
-      @apply text-label-s truncate mb-4 text-content-70;
+      @apply text-label-s mb-4 text-content-70;
     }
 
     &__attributes {
